@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-niv07c.juragan89alt.site/sitemap.xml
